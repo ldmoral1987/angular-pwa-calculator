@@ -1,6 +1,6 @@
 # AngularCalculatorPwa
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
+Aplicación simple Angular PWA que implementa una calculadora. Desarrollado para el módulo profesional de Programación de Servicios y Procesos (PSP), del CFGS de Desarrollo de Aplicaciones Multiplataforma. This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
 ## Development server
 
